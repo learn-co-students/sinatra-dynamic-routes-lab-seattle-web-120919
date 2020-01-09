@@ -5,6 +5,7 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'require_all'
+gem 'byebug'
 
 group :test, :development do
   gem 'rspec'
